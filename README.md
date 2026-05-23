@@ -20,21 +20,18 @@ The system uses:
 
 ## Project Structure
 
-python/
 gesture recognition
 
-arduino/
 motor control
 
-media/
 photos and videos
 
 ## Demonstration
 
 Opening curtain:
 
-media/open_demo.mp4
+open_demo.mp4
 
 Closing curtain:
 
-media/close_demo.mp4
+close_demo.mp4
