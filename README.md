@@ -24,7 +24,7 @@ gesture recognition
 
 motor control
 
-photos and videos
+Videos
 
 ## Demonstration
 
