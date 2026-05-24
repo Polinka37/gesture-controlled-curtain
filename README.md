@@ -14,9 +14,9 @@ The system uses:
 
 ## Control
 
-✋ Open palm → open curtain
+👊 Open palm → open curtain
 
-👊 Closed fist → close curtain
+✋ Closed fist → close curtain
 
 ## Project Structure
 
